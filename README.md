@@ -1,1 +1,1 @@
-exercises from <a href="www.nodeschool.io">nodeschool</a>. Thanks NodeSchool!
+exercises from <a href="http://www.nodeschool.io/">nodeschool</a>. Thanks NodeSchool!
