@@ -1,0 +1,25 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "flanthedev nodeschool",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "this is a readme file",
+  "respository": "https://github.com/flanthedev/nodeschool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flanthedev/nodeschool.git"
+  },
+  "keywords": [
+    "how-to-npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/flanthedev/nodeschool/issues"
+  },
+  "homepage": "https://github.com/flanthedev/nodeschool#readme"
+}
